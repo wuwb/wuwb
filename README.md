@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Wenbin Wu 👋
 
 <div style="display: flex;width:100%;justify-content: space-between;"> 
   <img style="flex: 1;"  src="https://github-readme-stats.vercel.app/api?username=wuwb&show_icons=true&theme=radical&count_private=true&show_icons=true" />
