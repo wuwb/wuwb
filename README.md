@@ -9,8 +9,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wuwb&theme=dark&&date_format=%5BY.%5Dn.j)
 
-<img src="https://github-readme-stats.vercel.app/api?username=wuwb&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true" />
-
 <img style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuwb&layout=compact&theme=tokyonight" />
 
 ![Visitor Count](https://profile-counter.glitch.me/wuwb/count.svg)
